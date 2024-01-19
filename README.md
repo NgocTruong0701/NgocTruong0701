@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truong Le Ngoc</h1>
-<h3 align="center">A Developer!!!</h3>
+<h3 align="center">I'm a Developer!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NgocTruong0701&label=Profile%20views&color=0e75b6&style=flat" alt="NgocTruong0701" /> </p>
 
