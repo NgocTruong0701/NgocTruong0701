@@ -5,10 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">[![trophy](https://github-profile-trophy.vercel.app/?username=NgocTruong0701)](https://github.com/ryo-ma/github-profile-trophy)</a> </p>
 </hr>
-- 🔭 I’m currently working at [NCCPLUS JSC.](https://ncc.asia/)
-- 🌱 I’m currently learning **Information System**
-- 📫 How to reach me: **ngoctruongcv@gmail.com** 
-- 📄 Know about my experiences: **https://www.linkedin.com/in/lengoctruong0701/**
+
+- 🔭 I’m currently working at [NCCPLUS JSC.](https://ncc.asia/) <br/>
+- 🌱 I’m currently learning **Information System** <br/>
+- 📫 How to reach me: **ngoctruongcv@gmail.com** <br/>
+- 📄 Know about my experiences: **https://www.linkedin.com/in/lengoctruong0701/** <br/>
 
 
 <h3 align="left">Connect with me:</h3>
