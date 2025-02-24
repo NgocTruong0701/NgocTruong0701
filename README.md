@@ -7,7 +7,7 @@
 </hr>
 
 - 🔭 I’m currently working at [NCCPLUS JSC.](https://ncc.asia/) <br/>
-- 🌱 I’m currently learning **Information System** <br/>
+- 🌱 I graduated with a major in **Information System** <br/>
 - 📫 How to reach me: **ngoctruongcv@gmail.com** <br/>
 - 📄 Know about my experiences: **https://www.linkedin.com/in/lengoctruong0701/** <br/>
 
